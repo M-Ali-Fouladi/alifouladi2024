@@ -1,0 +1,12 @@
+image has uploaded and is downloadable from registry
+instruction file has uploaded and all commands have executed successfully.
+------------------------------------------------------------------------------
+
+github Repository  ---> https://github.com/M-Ali-Fouladi/alifouladi2024/tree/M-Ali-Fouladi-assignment-2
+
+Docker pull command ---> docker pull alifouladi2024/assignment_2:latest
+
+link to docker hub ---> https://hub.docker.com/r/alifouladi2024/assignment_2/tags
+
+-------------------------------------
+Thank you for your attention Teacher
